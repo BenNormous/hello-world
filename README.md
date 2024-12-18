@@ -5,3 +5,6 @@ Just another repo
 *First Git-Repository*
 
 - M4573RN04H
+
+a letter from self service and control. my contact is ben@bnorman.us.
+<a href="mailto://ben@bnorman.us" alt="Ben">me</a>.
